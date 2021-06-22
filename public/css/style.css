@@ -1,0 +1,9 @@
+.gambar {
+  width: 200px;
+}
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
+.ul > li {
+  vertical-align: middle;
+}
